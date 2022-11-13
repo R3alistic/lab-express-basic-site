@@ -1,0 +1,18 @@
+body {
+    background-image: url("/images/backgroundimg.png");
+    background-color: white;
+    background-size: cover;
+}
+
+#about-text {
+    color: white;
+}
+
+
+#crash-two, #crash-one {
+    width: 35%;
+}
+
+#crash-three {
+    width: 26%;
+}
